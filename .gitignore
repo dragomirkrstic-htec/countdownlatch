@@ -1,0 +1,8 @@
+.idea
+.gradle
+build
+gradle
+/logisticsexchange-common-util.iml
+/out/
+gradlew.bat
+settings.gradle
